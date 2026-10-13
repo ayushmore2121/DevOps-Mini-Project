@@ -1,0 +1,24 @@
+cloudtask-student-manager/
+│
+├── app.py
+├── requirements.txt
+├── Dockerfile
+├── .dockerignore
+├── .gitignore
+│
+├── templates/
+│   └── index.html
+│
+├── static/
+│   └── style.css
+│
+├── tests/
+│   └── test_app.py
+│
+├── .github/
+│   └── workflows/
+│       └── ci.yml
+│
+├── screenshots/
+│
+└── README.md
